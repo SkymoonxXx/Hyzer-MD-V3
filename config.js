@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['628983055990'] 
+global.owner = ['62882016751615'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Tyoo Tamvan'
-global.numberowner = '628983055990'
+global.nameowner = 'BILZX SEMTUR'
+global.numberowner = '62882016751615'
 global.instagram = 'https://instagram.com/skymoonn_real?igshid=YmMyMTA2M2Y='
 global.github = 'https://github.com/Hyzerr'
 global.dana = '083199222276'
@@ -13,7 +13,7 @@ global.pulsa = '083862006229'
 global.gopay = '083134645103'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Mikasa botz-'
+global.namebot = 'Dio Botz'
 global.gc = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Skymoon Official'
+global.author = '© Bilzx Official'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
