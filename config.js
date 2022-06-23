@@ -6,15 +6,15 @@ global.prems = []
 //=============『 Info Owner 』============== //
 global.nameowner = 'Skymoon Official'
 global.numberowner = '6283862006229'
-global.instagram = 'https://instagram.com/hyzer_stfu'
+global.instagram = 'https://instagram.com/skymoonn_real?igshid=YmMyMTA2M2Y='
 global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.dana = '083199222276'
+global.pulsa = '083862006229'
+global.gopay = '083134645103'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
+global.namebot = 'ShiroBot-'
+global.gc = 'https://chat.whatsapp.com/GLj5hBI2NQm5ExcMGaa4Mu'
 global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
